@@ -1,2 +1,4 @@
 flask
 *.pyc
+tmp
+app.db
